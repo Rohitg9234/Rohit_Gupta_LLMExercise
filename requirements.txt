@@ -1,0 +1,5 @@
+vertexai
+google-cloud-aiplatform
+pymongo
+requests
+yt-dlp
