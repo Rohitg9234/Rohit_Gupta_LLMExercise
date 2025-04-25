@@ -17,6 +17,6 @@ This project scrapes YouTube videos about TSLA, extracts transcripts, uses Googl
 ```bash
 git clone https://github.com/Rohitg9234/Rohit_Gupta_LLMExercise.git
 cd Rohit_Gupta_LLMExercise
-
+```
 Then
 Just put your Project_Id from Google console and Run the main.py file
